@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJs, C, Advanced HTML & CSS, NodeJs, Backend
 
-- 👯 I’m looking to collaborate on ... if anybody would like to collaborate on anything or contribut to any of my work just let me know
+- 👯 I’m looking to collaborate on ... if anybody would like to collaborate on anything or contribute to any of my work just let me know
 
 - 🤔 I’m looking for help with finding a job in the industry
 
