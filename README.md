@@ -1,8 +1,8 @@
-### Hi there 👋 100% Self Taught
+### Hi there 👋 Front End Dev and Designer, I love to make 3D Animations!
 
-- 🔭 I’m currently working on Task Manager App, Local Business Website (Freelance), Portfolio Website
+- 🔭 I’m currently working on Task Manager App, Local Business Website (Freelance), Portfolio Website, ThreeJs Journey
 
-- 🌱 I’m currently learning ReactJs, C, Advanced HTML & CSS, NodeJs, Backend
+- 🌱 I’m currently learning ReactJs, C, Advanced HTML & CSS, NodeJs, Backend, ThreeJs
 
 - 👯 I’m looking to collaborate on ... if anybody would like to collaborate on anything or contribute to any of my work just let me know
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me: Twitter: @jordannotaguru Email: maugthewebdev@gmail.com
 
-- ⚡ Fun fact: I work in construction but when people ask I still say "I'm a developer"
 
 
 
